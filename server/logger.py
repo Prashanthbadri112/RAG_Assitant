@@ -20,8 +20,4 @@ def logger_setup(name="myRag"):
 
 logger = logger_setup()
 
-logger.debug("debugging")
-logger.info("process started")
-logger.error("error")
-logger.critical("Critical")
 
